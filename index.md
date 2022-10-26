@@ -3,6 +3,6 @@
 
 ```Testing adding a code block``` 
 
-- [ x ] add heading
-- [ x ] add code 
-- [   ] create a check list
+- [x] add heading
+- [x] add code 
+- [ ] create a check list
